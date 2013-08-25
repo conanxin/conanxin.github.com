@@ -44,7 +44,7 @@ tags : [未分类]
 
 **其中的一些：**
 
-- Everything is going on, but don`t give up trying. 万事随缘，但不要放弃努力。
+- Everything is going on, but don't give up trying. 万事随缘，但不要放弃努力。
 - No one can defeat us unless we first defeat ourselves. 没有人可以击倒我们除非我们先击倒自己。
 - Go as far as you can see; when you get there you'll be able to see farther. 走到你能看到最远之处，当你到那，你将能够看到更远。
 - To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment. 在一个时时想把你变为另一个人的世界里，做你自己是最大的成就。
