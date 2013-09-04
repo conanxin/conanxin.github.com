@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to prevent plagiarism in academic world"
+title: "Good for a single language as an international official language"
 description: " "
 category: essay
 tags: [essay, practice]
