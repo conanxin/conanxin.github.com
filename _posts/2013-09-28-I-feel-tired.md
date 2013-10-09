@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "I feel tired"
+title: "Something to tell myself"
 description: " "
 category: thinking
 tags: [essay, thinking]
 ---
 {% include JB/setup %}
 
-Today is 28 of September in 2013, and it's Saturday. After two days there will be a seven days vacation, but today is just like the vacation was begining. I feel so tired, and cannot dive into learning, but I still stick to the study. Of course the efficiency is very low, and I feel tired.
+It's a long time since the previous post, the long holiday for October Day had past.
 
 ---
 
