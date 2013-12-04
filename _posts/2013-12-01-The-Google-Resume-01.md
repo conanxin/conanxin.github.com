@@ -58,7 +58,61 @@ tags: [books, notes]
 - **Develop a track record of achievement.**
 - **Learn to write and speak.** Communication, whether written or oral, is virtally important to your career success.
 - **Emphasize depth over breadth.**
+- **Become a leader.** You dont need to be the president of a club or the manager of your team, but find something you can lead.
+- **Find a mentor (or become a mentor).** Even if it's not an official mentorship arrangement, find someone who is five or more than years ahead of you whom you can contact for advice.
+- **Develop a tangible skill.**
+- **Learn about technology.**
 
+---
 
+###Start Something
 
+If you've got some time to apare, consider pursuing the following path:
+
+- **Launch a business.** Lots of us have ideas floathing around in our heads——why not pursue one of them?
+- **Write a blog.** Writing a blog is a great way to show that you have great writing skills, to increase your "net presence", and demonstrate your interest in a field sunch as technology, media, or gaming.
+- **Start a club or organization.** 
+
+---
+
+###Suggestions:
+
+- **Do your homework.** Research the companies you're interested in and konw which roles you'd be a good fit for.
+- **Prepare questions.** Part of your job at a career fair is to show your passion for the company and the job.
+- **Prepare answers.** A company might ask you basic questions about your backgroud.
+- **Practice your elevator pitch.**
+- **Tailor your resume.**
+- **Dress appropriately.**
+- **Follow up.**
  
+---
+
+###Cover Letter
+
+---
+
+###What Are Tech Companies Looking For?
+
+- **Passion for technology.**
+- **Passion for the company.**
+- **Creativity.**
+- **Initiative.**
+- **Getting things done.**
+- **Intelligence.**
+
+###Four Ways to Keep the Interviewer's Attention
+
+- **Vary your speech.** Try varying the volume or tone of your speech.
+- **Tell a story.**
+- **Talk less.**
+- **Structure your responses.**
+
+---
+
+###Final Thoughts
+
+1. **Understan what you have.**
+2. **Know what you're missing.**
+3. **Plan ahead.** 
+
+Here is the Book: The Google Resume.
