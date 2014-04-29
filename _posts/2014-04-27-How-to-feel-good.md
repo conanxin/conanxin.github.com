@@ -9,3 +9,5 @@ tags: [essay, thinking]
 
 
 I am feelling good tonight. I had summarized a few reason.
+
+1. Got up late, so I had a good rest, and full of beans.
